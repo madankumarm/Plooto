@@ -1,0 +1,17 @@
+C:\Users\Madan-Kumar.Muthu\Desktop\TestApps\plooto\Plooto\Plooto\bin\Plooto.dll.config
+C:\Users\Madan-Kumar.Muthu\Desktop\TestApps\plooto\Plooto\Plooto\bin\Plooto.dll
+C:\Users\Madan-Kumar.Muthu\Desktop\TestApps\plooto\Plooto\Plooto\bin\Plooto.pdb
+C:\Users\Madan-Kumar.Muthu\Desktop\TestApps\plooto\Plooto\Plooto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Madan-Kumar.Muthu\Desktop\TestApps\plooto\Plooto\Plooto\bin\Newtonsoft.Json.dll
+C:\Users\Madan-Kumar.Muthu\Desktop\TestApps\plooto\Plooto\Plooto\bin\System.Net.Http.Formatting.dll
+C:\Users\Madan-Kumar.Muthu\Desktop\TestApps\plooto\Plooto\Plooto\bin\System.Web.Http.dll
+C:\Users\Madan-Kumar.Muthu\Desktop\TestApps\plooto\Plooto\Plooto\bin\System.Web.Http.WebHost.dll
+C:\Users\Madan-Kumar.Muthu\Desktop\TestApps\plooto\Plooto\Plooto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Madan-Kumar.Muthu\Desktop\TestApps\plooto\Plooto\Plooto\bin\Newtonsoft.Json.xml
+C:\Users\Madan-Kumar.Muthu\Desktop\TestApps\plooto\Plooto\Plooto\bin\System.Net.Http.Formatting.xml
+C:\Users\Madan-Kumar.Muthu\Desktop\TestApps\plooto\Plooto\Plooto\bin\System.Web.Http.xml
+C:\Users\Madan-Kumar.Muthu\Desktop\TestApps\plooto\Plooto\Plooto\bin\System.Web.Http.WebHost.xml
+C:\Users\Madan-Kumar.Muthu\Desktop\TestApps\plooto\Plooto\Plooto\obj\Debug\Plooto.csproj.CoreCompileInputs.cache
+C:\Users\Madan-Kumar.Muthu\Desktop\TestApps\plooto\Plooto\Plooto\obj\Debug\Plooto.dll
+C:\Users\Madan-Kumar.Muthu\Desktop\TestApps\plooto\Plooto\Plooto\obj\Debug\Plooto.pdb
+C:\Users\Madan-Kumar.Muthu\Desktop\TestApps\plooto\Plooto\Plooto\obj\Debug\Plooto.csprojResolveAssemblyReference.cache
